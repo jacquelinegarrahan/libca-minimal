@@ -1,0 +1,9 @@
+name: libca-minimal
+channels:
+  - conda-forge
+dependencies:
+  - python ==3.7.9
+  - pcaspy ==0.7.3
+  - pytest
+  - pyepics ==3.4.3
+  - p4p ==3.5.2
